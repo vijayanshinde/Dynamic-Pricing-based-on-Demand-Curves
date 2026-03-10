@@ -8,7 +8,7 @@ This repository, **`pricing-based-on-demand-and-inventory`**, contains a complet
 
 ---
 
-## 📊 Project Overview
+##  Project Overview
 
 Dynamic pricing is a key tool in industries like e-commerce, telecommunications, cloud computing, and transportation. The challenge lies in **setting prices dynamically** while accounting for:
 
@@ -26,7 +26,7 @@ This project addresses the challenge using a **Primal-Dual optimization framewor
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 - **Demand Simulation**
   - Logistic demand functions with noise injection
@@ -52,7 +52,7 @@ This project addresses the challenge using a **Primal-Dual optimization framewor
 
 ---
 
-## 🧰 Technologies Used
+##  Technologies Used
 
 - **Language:** Python (Jupyter Notebook)
 - **Libraries:**
@@ -64,7 +64,7 @@ This project addresses the challenge using a **Primal-Dual optimization framewor
 
 ---
 
-## 📈 Results
+##  Results
 
 - Learned demand functions that are **price-sensitive and stochastic**, mimicking real customer behavior  
 - Achieved near-oracle revenues with regret consistently between **0% and 10%**, well within the 15% threshold cited in the literature  
@@ -73,7 +73,7 @@ This project addresses the challenge using a **Primal-Dual optimization framewor
 
 ---
 
-## 🌟 Why This Project Stands Out
+##  Why This Project Stands Out
 
 - Integrates **ML + optimization** in a full pipeline  
 - Goes beyond toy problems — implements a **research-grade algorithm**  
@@ -85,7 +85,7 @@ This project addresses the challenge using a **Primal-Dual optimization framewor
 
 ---
 
-## ⚙️ How to Run
+##  How to Run
 
 1. Clone this repository:
 
@@ -114,7 +114,7 @@ This project addresses the challenge using a **Primal-Dual optimization framewor
 
 ---
 
-## 📄 References
+##  References
 
 - Chen, Ningyuan, and Guillermo Gallego. *A Primal-Dual Learning Algorithm for Personalized Dynamic Pricing with an Inventory Constraint*. [arXiv:1812.09234](https://arxiv.org/pdf/1812.09234)
 - Additional ML + pricing literature referenced in the report
